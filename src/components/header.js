@@ -17,14 +17,16 @@ export default function Header() {
     <header>
       <nav>
         <Ol>
-          <Li class="logo">agrajak.log</Li>
+          <Li className="logo">agrajak.log</Li>
           <Li>
             <Link to="/">홈</Link>
           </Li>
           <Li>
             <Link to="/about">소개</Link>
           </Li>
-          <Li>글 목록</Li>
+          <Li>
+            <Link to="/posts">글 목록</Link>
+          </Li>
         </Ol>
       </nav>
     </header>
