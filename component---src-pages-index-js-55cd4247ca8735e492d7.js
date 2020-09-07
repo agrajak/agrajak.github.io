@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(t,e,n){"use strict";n.r(e);var o=n("q1tI"),l=n.n(o),a=n("Bl7J"),r=n("Wbzz");e.default=function(){return l.a.createElement(a.a,null,"Hello world!",l.a.createElement(r.a,{to:"/blog/my-first-post"},"link to my-first-post"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-55cd4247ca8735e492d7.js.map
