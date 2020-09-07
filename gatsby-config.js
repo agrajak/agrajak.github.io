@@ -18,5 +18,5 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
     },
   ],
-  pathPrefix: `/agrajak.github.io`,
+  pathPrefix: `/`,
 }
